@@ -1,0 +1,103 @@
+.ecs-fix-btn, input[type="reset"] {
+    color: #ffffff !important;
+}
+.ecs-fix-btn, input[type="reset"] {
+    border-radius: 3px;
+    outline: none !important;
+}
+.ecs-fix-btn, input[type="reset"] {
+    position: relative;
+    cursor: pointer;
+    display: inline-block;
+    overflow: hidden;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-tap-highlight-color: transparent;
+    vertical-align: middle;
+    z-index: 1;
+    will-change: opacity, transform;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+    -ms-transition: all 0.3s ease-out;
+    transition: all 0.3s ease-out;
+}
+.ecs-fix-btn, input[type="reset"] {
+    display: inline-block;
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+.ecs-fix-btn, input[type="reset"] {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+.ecs-fix-btn, input[type="reset"] {
+    -webkit-appearance: button;
+    cursor: pointer;
+}
+.ecs-fix-btn, input[type="reset"] {
+    text-transform: none;
+}
+.ecs-fix-btn, input[type="reset"] {
+    overflow: visible;
+}
+.ecs-fix-btn, input[type="reset"] {
+    font: inherit;
+    font-weight: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    font-family: inherit;
+    color: inherit;
+}
+.ecs-fix-btn, input[type="reset"] {
+    outline: none !important;
+}
+.ecs-fix-btn, input[type="reset"] {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.ecs-fix-btn {
+    background-color: #22a345 !important;
+    border: 1px solid #22a345 !important;
+}
+
+.ecs-fix-btn:hover {
+    background-color: #2ed55b !important;
+    border: 1px solid #2ed55b !important;
+}
+
+input[type="reset"] {
+    background-color: #f65858 !important;
+    border: 1px solid #f65858 !important;
+}
+
+input[type="reset"]:hover {
+    background-color: #e88282 !important;
+    border: 1px solid #e88282 !important;
+}
+
+.ecs-fix-btn, input[type="reset"] {
+    margin: 0px 5px 0px 5px !important;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+    width: 120px;
+}

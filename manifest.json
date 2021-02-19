@@ -1,0 +1,35 @@
+{
+  "applications": {
+    "gecko": {
+      "id": "ecs-fix@maxgontijo.com.br"
+    }
+  },
+  "manifest_version": 2,
+  "name": "ECS Fix",
+  "version": "1.0.0",
+  "description": "Fix some bugs on ECS tools.",
+  "icons": {
+    "48": "images/app-icon.svg"
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "web_accessible_resources": [
+    "content/style.css"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://www.ecs.umass.edu/ece/koren/architecture/scoreboard/*"
+      ],
+      "js": [
+        "lib/js/jquery-3.5.1.js",
+        "content/ecs-fixer.js"
+      ],
+      "css": [
+        "content/style.css"
+      ],
+      "all_frames": true
+    }
+  ]
+}
