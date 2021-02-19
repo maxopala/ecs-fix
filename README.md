@@ -4,7 +4,7 @@ This extension just fix some broken features on some tools of College of Enginee
 
 ## Install
 
-This web extension was published on [Firefox Add-Ons]() site and on [Chrome Extensions]() site.
+This web extension was published on [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox/addon/ecs-fix/) site and on [Chrome Extensions](https://chrome.google.com/webstore/detail/aggimaikohcomjpcmbcnoohldfgofmjk) site.
 
 So just follow the link and install it!!!
 
