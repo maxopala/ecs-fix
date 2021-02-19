@@ -9,7 +9,7 @@
   "version": "1.0.0",
   "description": "Fix some bugs on ECS tools.",
   "icons": {
-    "48": "images/app-icon.svg"
+    "48": "images/app-icon.png"
   },
   "permissions": [
     "activeTab"
