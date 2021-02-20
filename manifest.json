@@ -6,7 +6,7 @@
   },
   "manifest_version": 2,
   "name": "ECS Fix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Fix some bugs on ECS tools.",
   "icons": {
     "48": "images/app-icon.png"
