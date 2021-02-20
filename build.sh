@@ -9,5 +9,5 @@ then
 fi
 
 echo "Creating project zip..."
-zip -q -r -FS "${DIST_DIR}/ecs-fix.zip" * --exclude '.*' --exclude dist
+zip -q -r -FS "${DIST_DIR}/ecs-fix.zip" * --exclude '.*' --exclude "dist" --exclude "images/*.svg"
 echo "Zip file created!"
